@@ -1,1 +1,3 @@
 # iammachine
+
+## idea
